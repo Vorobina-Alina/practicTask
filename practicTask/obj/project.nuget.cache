@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEa9WJiHp1A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ssalt\\source\\repos\\practicTask\\practicTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssalt\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\ssalt\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ssalt\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ssalt\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
